@@ -1,0 +1,26 @@
+# Archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Binarios y builds
+bin/
+obj/
+
+# Archivos de entorno
+*.dbmdl
+*.log
+*.vsidx
+
+# Configuración de Rider o ReSharper
+.idea/
+*.DotSettings
+
+# Otros temporales
+*.cache
+*.pidb
+*.pdb
+
+.vs/
+bin/
+obj/
