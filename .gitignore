@@ -20,7 +20,3 @@ obj/
 *.cache
 *.pidb
 *.pdb
-
-.vs/
-bin/
-obj/
