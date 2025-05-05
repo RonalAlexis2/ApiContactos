@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este es un proyecto de una API para gestionar contactos. El proyecto permite a los usuarios realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los contactos almacenados en una base de datos usando **Entity Framework Core**.
+Este es un proyecto de un API para gestionar contactos. El proyecto permite a los usuarios realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los contactos almacenados en una base de datos usando **Entity Framework Core**.
 
 ## Tecnologías utilizadas
 
